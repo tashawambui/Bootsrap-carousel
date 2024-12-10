@@ -1,0 +1,19 @@
+
+body{
+    position: relative;
+}
+p{
+    font-size: 18px;
+}
+#section1{
+    padding-top: 50px;
+    height: 500px;
+    color: white;
+    background-color: rgba(244, 89, 11, 0.927);
+}
+#section2{
+    padding-top: 50px;
+        height: 500px;
+        color: purple;
+        background-color: white;
+}
